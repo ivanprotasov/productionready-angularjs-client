@@ -2,6 +2,7 @@ class ArticleCtrl {
   constructor() {
     'ngInject';
 
+
   }
 }
 
